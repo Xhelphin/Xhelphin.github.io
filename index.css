@@ -13,10 +13,6 @@ body {
 #subtitle {
   font-family: sans-serif;
 }
-#projects {
-  font-family: 'Chau Philomene One', sans-serif;
-  margin: 1rem;
-}
 #pirategamebutton {
   font-family: sans-serif;
   cursor: help;
@@ -24,10 +20,6 @@ body {
 }
 @supports (-webkit-text-stoke: 1px black) {
   h1 {
-    -webkit-text-stoke: 1px black;
-    -webkit-text-fill-color: white;
-  }
-  h2 {
     -webkit-text-stoke: 1px black;
     -webkit-text-fill-color: white;
   }
