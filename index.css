@@ -4,17 +4,23 @@ body {
 #title {
   font-family: 'Chau Philomene One', sans-serif;
   color: white;
-  border: 5px solid #000;
+  -webkit-text-stroke: 1px black;
+  text-shadow:
+    3px 3px 0 #000,
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
 }
 #subtitle {
   font-family: sans-serif;
   color: white;
-  border: 5px solid #000;
+  -webkit-text-stoke: 1px black;
 }
 #projects {
   font-family: 'Chau Philomene One', sans-serif;
   color: white;
-  border: 5px solid #000;
+  -webkit-text-stoke: 1px black;
 }
 #pirategamebutton {
   font-family: sans-serif;
