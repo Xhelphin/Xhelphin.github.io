@@ -1,1 +1,1 @@
-window.location.href("/pirate-game/pirategame.html");
+window.location.replace("/pirate-game/pirategame.html");
