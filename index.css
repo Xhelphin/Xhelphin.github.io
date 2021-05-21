@@ -1,5 +1,5 @@
 body {
-  bgcolor: white;
+  background: linear-gradient(348deg, #ff0000 0%, #ff6700 100%);
 }
 #title {
   font-family: 'Chau Philomene One', sans-serif;
@@ -12,4 +12,5 @@ body {
 }
 #pirategamebutton {
   font-family: sans-serif;
+  cursor: help;
 }
